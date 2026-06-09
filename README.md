@@ -1,0 +1,1 @@
+Develop a course enrollment dashboard in ReactJS. Maintain students in state (using a Map internally, and Sets for enrolledCourses). Implement adding/removing students, sorting by GPA, listing unique courses, and filtering by course.
