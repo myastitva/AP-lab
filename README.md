@@ -1,0 +1,1 @@
+Develop an activity log analyzer in Python. Store data efficiently using python built-in containers. Implement total_time_per_user, most_active_users, and unique_actions. Must use dict, set, list, comprehensions, sorted() with key, typing annotations, and reduce().
