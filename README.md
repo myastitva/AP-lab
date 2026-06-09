@@ -1,0 +1,1 @@
+ Develop a student performance analyzer in Java. You are given a list of students of your batch. Each student has id (int), name (String), courses (List), and scores (Map<String, Integer>). Store students using appropriate collections. Implement getTopNStudents, getAverageScorePerCourse, and getAllUniqueCourses. Must use Streams, Comparators, and handle missing course scores.
